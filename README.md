@@ -1,5 +1,5 @@
 # Impact-of-Soil-Phosphate-Level-on-an-Ecologically-Sensitive-Lake
-In this study I have evaluated how a change in soil phosphate level will impact a section of the Murrumbidgee River which empties into an ecologically sensitive lake.
+In this study, the impact of soil phosphate level in a section of the Murrumbidgee River is examined. The river empties into an ecologically sensitive lake. A dam separates the river and the lake to prevent the lake from becoming polluted. 
 
 The 2019-2020 fire season in Australia was one of the worst on record. Known as `The Black
 Summer', an estimated 300,000 square kilometers of bushland was burnt. An important ecological effect of
